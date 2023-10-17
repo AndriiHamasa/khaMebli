@@ -1,0 +1,31 @@
+// utils styles
+@import './utils/normalize';
+@import './utils/fonts';
+@import './utils/variables';
+@import './utils/visually-hidden';
+// base styles
+@import './base/base';
+@import './base/reset';
+
+//components styles
+@import './components/container';
+@import './components/logo';
+@import './components/header';
+@import './components/navigation';
+@import './components/btn';
+@import './components/hero-section';
+@import './components/strong-section';
+@import './components/work-section';
+@import './components/socials';
+@import './components/team-section';
+@import './components/clients-section';
+@import './components/footer';
+@import './components/form-footer';
+@import './components/portfolio';
+@import './components/project-element';
+@import './components/modal-window';
+@import './components/form-hero';
+@import './components/mobile-menu';
+
+// animations
+@import './components/animations'

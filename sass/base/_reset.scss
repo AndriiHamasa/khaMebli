@@ -1,0 +1,28 @@
+/*=========
+   Reset start
+   ===========*/
+h1,
+h2,
+h3,
+p,
+ul {
+  padding: 0;
+  margin: 0;
+}
+.work-list,
+.team-list,
+.adres-list,
+.btn-list,
+.strong-container,
+.project-list,
+.list,
+.strong-container__list,
+.socials-item,
+.clients,
+.agreement-link,
+.header-item{
+  list-style: none;
+}
+/*=========
+   Reset end
+   ===========*/
